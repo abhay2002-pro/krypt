@@ -1,0 +1,18 @@
+For client
+----------
+> React installation
+Vite is new way to create react apps.
+Just have to run the command npm init vite@latest
+This fairly fast process takes like 9 seconds. 
+run npm i after that.
+run start after that.
+
+> Tailwind installation
+Tailwind CSS installation
+https://tailwindcss.com/docs/guides/create-react-app
+
+Packages installed -
+1) react-icons 
+2) ethers - helps in contacting with the blockchain and the smart contracts
+For smart_contract
+------------------
