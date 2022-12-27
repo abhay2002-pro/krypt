@@ -14,5 +14,18 @@ https://tailwindcss.com/docs/guides/create-react-app
 Packages installed -
 1) react-icons 
 2) ethers - helps in contacting with the blockchain and the smart contracts
+
+Gradients -
+Gradients can be generated with csshero.org/mesher
+
+Adding your own media query -
+We have added a mf ourself in tailwindcss.com
+
 For smart_contract
 ------------------
+To create a basic structure -
+https://hardhat.org/
+Helps is running Solidity locally
+
+Create a basic simple project-
+npx hardhat
